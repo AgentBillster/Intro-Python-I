@@ -36,6 +36,33 @@ waypoints = [
 # Add a new waypoint to the list
 # YOUR CODE HERE
 
+# print(waypoints[0])
+
+
+# def add_waypoint(lat, lon, name):
+
+#     o = {
+#         "lat": lat,
+#         "lon": lon,
+#         "name": name
+#     }
+
+#     if (waypoints[0]["name"] == "a place"):
+#         del waypoints[1]
+
+#     elif (len(waypoints) > 0):
+#         waypoints.append(o)
+
+#     else:
+#         print("idk fam")
+
+
+# add_waypoint(1, 2, "fourth palce")
+
+
+# for obj in waypoints:
+#     print(obj)
+
 # Modify the dictionary with name "a place" such that its longitude
 # value is -130 and change its name to "not a real place"
 # Note: It's okay to access the dictionary using bracket notation on the
@@ -45,3 +72,4 @@ waypoints = [
 
 # Write a loop that prints out all the field values for all the waypoints
 # YOUR CODE HERE
+
